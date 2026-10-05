@@ -6,6 +6,8 @@ I built the analysis in Excel PivotTables first, then rebuilt the four dashboard
 
 ![Dashboard](coffee%20one/coffeeshopdash.png)
 
+Read the full write-up on [Medium](https://medium.com/@joeparkda/half-of-this-coffee-shops-customers-only-buy-one-thing-here-s-how-i-d-fix-that-ce10ff8468ec).
+
 ## Key Findings
 
 - Latte was the top-selling item ($2,924)
@@ -29,3 +31,7 @@ Skills: Data aggregation, window functions, revenue analysis, business analysis,
 
 - `coffee_shop_sales.xlsx`: the source data and PivotTables
 - `Article.md`: the write-up
+
+## Author
+
+[Portfolio](https://sunghunp.github.io/joe-portfolio/) | [GitHub](https://github.com/SunghunP)
